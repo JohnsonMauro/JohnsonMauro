@@ -7,30 +7,26 @@
   </i>
 </p>
 
-My name is Johnson and I am a Software Engineer.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JohnsonMauro)](https://github.com/JohnsonMauro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnson-mauro-06646b54/)](https://www.linkedin.com/in/johnson-mauro-06646b54/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/JohnsonMauro)](https://t.me/JohnsonMauro)
 
-🇧🇷 I'm from Brazil.
+### About me
 
-Currently working @ [Foco Aluguel de Carros](https://www.aluguefoco.com.br/).
+- My name is Johnson Mauro, I'm a software engineer and currently live in Brazil.
+- I work with development for at least 8 years, I have experience with many technologies but I stand out with Angular and Microsoft .Net.
 
-- 😄 Pronouns: He/Him
-- 🔗 Here are some of my links:
-  - [Instagram](https://www.instagram.com/johnson.mauro)
-  - [Linkedin](https://www.linkedin.com/in/johnson-mauro-06646b54/)
+---
 
-🛠 This page is still working in progress..
+### Technologies & Tools
 
-<!--
-**JohnsonMauro/JohnsonMauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.net&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9400D3)
