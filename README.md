@@ -14,7 +14,7 @@
 ### About me
 
 - My name is Johnson Mauro, I'm a software engineer and currently live in Brazil.
-- I work with development for at least 8 years, I have experience with many technologies but I stand out with Angular and Microsoft .Net.
+- I work with development since 2012, I have experience with many technologies but I stand out with Angular and Microsoft .Net.
 
 ---
 
